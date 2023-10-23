@@ -1,0 +1,18 @@
+{
+  "data-karyawan": [
+    {
+      "id": 1692167410151,
+      "nama_karyawan": "yanto",
+      "jabatan": "satpam",
+      "jenis_kelamin": "Laki-laki",
+      "tanggal_lahir": "1992-05-02"
+    },
+    {
+      "id": 1692167532543,
+      "nama_karyawan": "wahyu",
+      "jabatan": "OB",
+      "jenis_kelamin": "Perempuan",
+      "tanggal_lahir": "2000-05-05"
+    }
+  ]
+}
